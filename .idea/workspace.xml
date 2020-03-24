@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43c96f65-30b9-486c-ad3c-a735e571228a" name="Default" comment="" />
+    <list default="true" id="43c96f65-30b9-486c-ad3c-a735e571228a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/ChangeGroup/ChangeGroupParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/ChangeGroup/ChangeGroupState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/ChangeGroup/ChangeGroupStateMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupChangedStateHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupChangingStateHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupIdleStateHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/GroupCall/GroupCallParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/GroupCall/GroupCallState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/GroupCall/GroupCallStateMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/GroupCall/stateHandler/GroupCallGrantedStateHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/GroupCall/stateHandler/GroupCallGrantedStateHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/GroupCall/stateHandler/GroupCallGrantingStateHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/test/GroupCall/stateHandler/GroupCallNoGrantedStateHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/util/IMoveToState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/util/IParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/util/IState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/util/IStateHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/util/StateHandlerBaseImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/util/StateMachine$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/statemachine/cn/vvi/util/StateMachine.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/GroupCall/stateHandler/GroupCallNoGrantedStateHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/GroupCall/GroupCallStateMachine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="103">
-              <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangeGroupChangedStateHandler.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChangeGroupChangedStateHandler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupChangedStateHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,8 +90,8 @@
       <file leaf-file-name="ChangeGroupChangingStateHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupChangingStateHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="108">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,8 +102,8 @@
       <file leaf-file-name="ChangeGroupIdleStateHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupIdleStateHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/ChangeGroupParameter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -103,16 +124,16 @@
         <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/ChangeGroupState.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangeGroupStateMachine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChangeGroupStateMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/ChangeGroupStateMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="432">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,6 +149,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -168,6 +192,7 @@
     <option name="width" value="1680" />
     <option name="height" value="963" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -179,78 +204,6 @@
             <path>
               <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
               <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="vvi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="vvi" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="vvi" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ChangeGroup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="vvi" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ChangeGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="stateHandler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="vvi" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="GroupCall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="vvi" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="GroupCall" type="462c0819:PsiDirectoryNode" />
-              <item name="stateHandler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="statemachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="statemachine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="vvi" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,28 +276,28 @@
       <option name="presentableId" value="Default" />
       <updated>1585016071688</updated>
       <workItem from="1585016074928" duration="784000" />
-      <workItem from="1585017015219" duration="2590000" />
+      <workItem from="1585017015219" duration="2927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3374000" />
+    <option name="totallyTimeSpent" value="3711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="963" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Cargo" order="3" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290993" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.03117783" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -357,7 +310,6 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -547,17 +499,10 @@
     <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/GroupCall/stateHandler/GroupCallNoGrantedStateHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/GroupCall/GroupCallState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -568,54 +513,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/GroupCall/GroupCallState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/GroupCall/GroupCallStateMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
-          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/ChangeGroupParameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/ChangeGroupState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupChangedStateHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupChangingStateHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupIdleStateHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -624,8 +532,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/ChangeGroupStateMachine.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/ChangeGroupState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/ChangeGroupParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupIdleStateHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupChangingStateHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vvi/test/ChangeGroup/stateHandler/ChangeGroupChangedStateHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
